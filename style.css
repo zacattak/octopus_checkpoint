@@ -1,0 +1,22 @@
+.fancy {
+    color: bisque;
+    font-family: "Gowun Dodum", sans serif;
+}
+
+.back {
+    background-image: url(assets/sticky.jpg);
+    height: 100vh;
+    /* background-position: top; */
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.magic-card {
+    position: absolute;
+    top: 70%;
+}
+
+.color {
+    color: rgb(19, 8, 49);
+    font-family: 'Kavoon', serif;
+}
