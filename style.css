@@ -1,6 +1,11 @@
 .fancy {
     color: bisque;
-    font-family: "Gowun Dodum", sans serif;
+    font-family: "Gowun Dodum", sans-serif;
+}
+
+body {
+    overscroll-behavior: none;
+    /* or overscroll-behavior-y: none; for just vertical */
 }
 
 .back {
@@ -16,6 +21,7 @@
     top: 106%;
     left: 60%;
 }
+
 
 .color {
     color: rgb(19, 8, 49);
