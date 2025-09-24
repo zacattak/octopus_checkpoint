@@ -3,6 +3,11 @@
     font-family: "Gowun Dodum", sans-serif;
 }
 
+.fancy1 {
+    color: rgb(0, 0, 0);
+    font-family: "Gowun Dodum", sans-serif;
+}
+
 body {
     overscroll-behavior: none;
     /* or overscroll-behavior-y: none; for just vertical */
